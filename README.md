@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/gift.gif" alt="Guts GIF" width="500">
+</p>
+
 ## 🚀 About Me
 
 I'm a Computer Engineering student specializing in **Data Science**, passionate about software development, artificial intelligence, machine learning, and cloud technologies.
